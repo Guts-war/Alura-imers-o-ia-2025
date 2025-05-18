@@ -44,6 +44,6 @@ Esse projeto é tipo um turbo pra quem quer criar conteúdo de qualidade pro You
 
 Bora testar essa parada e levar seu canal pro PRÓXIMO NÍVEL? 🔥
 
-
+<a href="https://colab.research.google.com/github/Guts-war/Alura-imers-o-ia-2025/blob/main/IAtube_.ipynb" target="blank_">**Acesse já**</a>
 
 texto gerado por IA Gemini
